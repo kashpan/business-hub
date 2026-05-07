@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Global Headquarters",
+    "location": "Nairobi"
+  },
+  {
+    "id": 2,
+    "name": "Downtown Branch",
+    "location": "Mombasa"
+  },
+  {
+    "id": 1777991797823,
+    "name": "Upcountry Depot",
+    "location": "Nakuru"
+  }
+]
